@@ -1,0 +1,8 @@
+streamlit>=1.35,<2
+pandas>=2.1,<4
+requests>=2.31,<3
+SQLAlchemy>=2,<3
+PyMySQL>=1.1,<2
+python-dotenv>=1,<2
+plotly>=5.20,<7
+pytest>=8,<9
